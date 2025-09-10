@@ -1,0 +1,51 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 10 Sep 2025 22:52:23 at http://Proxy's http://address: http://fe80::5e60:f023:f887:ec18 http://Proxy's http://port: http://8080 http://mbcenter.org/htm +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y http://Proxy's http://address: http://fe80::5e60:f023:f887:ec18 http://Proxy's http://port: http://8080 http://mbcenter.org/htm -O1 "E:\mbcenter" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:52:37	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link proxy's/robots.txt (from primary/primary)
+22:52:37	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link proxy's/ (from primary/primary)
+22:52:38	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link address:/robots.txt (from primary/primary)
+22:52:38	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link address:/ (from primary/primary)
+22:52:38	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link fe80::5e60:f023:f887:ec18/robots.txt (from primary/primary)
+22:52:38	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link fe80::5e60:f023:f887:ec18/ (from primary/primary)
+22:52:38	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link port:/robots.txt (from primary/primary)
+22:52:38	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link port:/ (from primary/primary)
+22:52:40	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link 8080/robots.txt (from primary/primary)
+22:52:40	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link 8080/ (from primary/primary)
+22:53:19	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link proxy's/ (from primary/primary)
+22:53:19	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link address:/ (from primary/primary)
+22:53:19	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link fe80::5e60:f023:f887:ec18/ (from primary/primary)
+22:53:19	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link port:/ (from primary/primary)
+22:53:19	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link 8080/ (from primary/primary)
+22:56:14	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link proxy's/ (from primary/primary)
+22:56:14	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link address:/ (from primary/primary)
+22:56:14	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link fe80::5e60:f023:f887:ec18/ (from primary/primary)
+22:56:14	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link port:/ (from primary/primary)
+22:56:14	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link 8080/ (from primary/primary)
+22:56:24	Error: 	"Not Found" (404) at link https://mbcenter.org/downloads/SS-Eagle-Scout-Passport-FINAL-1.pdf (from https://mbcenter.org/htm/pub/ws.php)
+22:56:25	Error: 	"Not Found" (404) at link https://mbcenter.org/pub/ws/ws_hobbiesandcollections.pdf (from https://mbcenter.org/htm/pub/ws.php)
+22:57:23	Error: 	"Not Found" (404) at link https://mbcenter.org/history/ (from https://mbcenter.org/htm/pub/mbcphistory.php)
+22:57:23	Error: 	"Not Found" (404) at link https://mbcenter.org/mbbwimages/coconutgrowing.jpg (from https://mbcenter.org/htm/mbprintable.php?mb=coconutgrowing)
+22:57:23	Error: 	"Not Found" (404) at link https://mbcenter.org/mbbwimages/surveying.jpg (from https://mbcenter.org/htm/mbprintable.php?mb=surveying)
+22:57:40	Error: 	"Not Found" (404) at link https://mbcenter.org/welcomepage.php (from https://mbcenter.org/pub/ws.php)
+22:57:40	Error: 	"Not Found" (404) at link https://mbcenter.org/advancement.php (from https://mbcenter.org/pub/ws.php)
+22:57:40	Error: 	"Not Found" (404) at link https://mbcenter.org/awards.php (from https://mbcenter.org/pub/ws.php)
+22:57:40	Error: 	"Not Found" (404) at link https://mbcenter.org/meritbadgelist.php (from https://mbcenter.org/pub/ws.php)
+22:57:40	Error: 	"Not Found" (404) at link https://mbcenter.org/mbeaglerequired.php (from https://mbcenter.org/pub/ws.php)
+22:57:40	Error: 	"Not Found" (404) at link https://mbcenter.org/specialist.php (from https://mbcenter.org/pub/ws.php)
+22:57:40	Error: 	"Not Found" (404) at link https://mbcenter.org/mbgroup.php (from https://mbcenter.org/pub/ws.php)
+22:57:40	Error: 	"Not Found" (404) at link https://mbcenter.org/woodbadge/index.php (from https://mbcenter.org/pub/ws.php)
+22:57:40	Error: 	"Not Found" (404) at link https://mbcenter.org/forms.php (from https://mbcenter.org/pub/ws.php)
+22:57:48	Error: 	"Not Found" (404) at link https://mbcenter.org/downloads.php (from https://mbcenter.org/pub/ws.php)
+22:57:48	Error: 	"Not Found" (404) at link https://mbcenter.org/mbcplinks.php (from https://mbcenter.org/pub/ws.php)
+22:57:48	Error: 	"Not Found" (404) at link https://mbcenter.org/submitasite.php (from https://mbcenter.org/pub/ws.php)
+22:57:48	Error: 	"Not Found" (404) at link https://mbcenter.org/contactus.php (from https://mbcenter.org/pub/ws.php)
+22:57:48	Error: 	"Not Found" (404) at link https://mbcenter.org/images/ico_adobeacrobat.gif (from https://mbcenter.org/pub/ws.php)
+22:57:57	Error: 	"Not Found" (404) at link https://mbcenter.org/woodbadge/wb_training02_btc_tl.php (from https://mbcenter.org/pub/index.php)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 34 seconds : 1044 links scanned, 1002 files written (83835368 bytes overall), 1003 files updated [80903534 bytes received at 242226 bytes/sec], 4521596 bytes transferred using HTTP compression in 424 files, ratio 27%, 32.1 requests per connection
+(30 errors, 10 warnings, 0 messages)

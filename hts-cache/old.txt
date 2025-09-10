@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+22:49:00	795/795	---M--	301	error ('Moved%20Permanently')	text/html	date:Wed,%2010%20Sep%202025%2014:49:14%20GMT	http://www.mbcenter.org/robots.txt		(from )
+22:49:01	795/795	---M--	301	error ('Moved%20Permanently')	text/html	date:Wed,%2010%20Sep%202025%2014:49:15%20GMT	http://www.mbcenter.org/htm/	E:/mbcenter/www.mbcenter.org/htm/index.html	(from )
